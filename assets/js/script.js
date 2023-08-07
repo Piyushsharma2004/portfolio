@@ -64,7 +64,7 @@ document.addEventListener('visibilitychange',
             $("#favicon").attr("href", "assets/images/top-icon.jpeg");
         }
         else {
-            document.title = "Come Back To Portfolio";
+            document.title = "Come Back To Piyush Portfolio";
             $("#favicon").attr("href", "assets/images/top-icon-2.png");
         }
     });
