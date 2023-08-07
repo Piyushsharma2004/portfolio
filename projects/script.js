@@ -21,7 +21,7 @@ document.addEventListener('visibilitychange',
     function () {
         if (document.visibilityState === "visible") {
             document.title = "Projects | Portfolio Jigar Sable";
-            $("#favicon").attr("href", "/assets/images/favicon.png");
+            $("#favicon").attr("href", "/assets/images/top-icon-2.png");
         }
         else {
             document.title = "Come Back To Portfolio";
