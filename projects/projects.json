@@ -55,8 +55,28 @@
     "image": "project6",
     "category": "basicweb",
     "links": {
-      "Live": " ",
-      "code": ""
+      "Live": "https://piyushdoc.netlify.app/",
+      "code": "https://github.com/Piyushsharma2004/portfolio/tree/main"
+    }
+  },
+  {
+    "name": "Mini calculat",
+    "desc":"Mini calculator using HTML, CSS, and JavaScript. Sleek, modern design.",
+    "image": "project7",
+    "category": "basicweb",
+    "links": {
+      "Live": "https://calculator2004.netlify.app/",
+      "code": "https://github.com/Piyushsharma2004/CODSOFT/tree/main/Calculator-project"
+    }
+  },
+  {
+    "name": "Temperature Converter",
+    "desc":"Temperature converter using HTML, CSS, and JavaScript. Sleek, modern design.",
+    "image": "project8",
+    "category": "basicweb",
+    "links": {
+      "Live": "https://temp2004.netlify.app/",
+      "code": "https://github.com/Piyushsharma2004/Temperature-converter"
     }
   }
 ]
